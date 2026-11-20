@@ -22,7 +22,7 @@ The **Refreshed** mods for *Distant Worlds 2*: better lighting and effects, redo
 The Refreshed mods need **[DW2 Mod Launcher](https://github.com/lucky-wolf/DW2-Mod-Launcher/releases)** (Resources also works without it). Install it first, and start the game with its **Play** button.
 
 - **Steam:** subscribe to the mod on the Steam Workshop, then enable it in the launcher.
-- **Without Steam (GOG, direct purchase) or by choice:** in the launcher, click **Browse Mod Catalog**, find the mod and install it. Mods installed this way update automatically. (Refreshed Resources is on Steam only for now.)
+- **Without Steam (GOG, direct purchase) or by choice:** in the launcher, click **Browse Mod Catalog**, find the mod and install it. Mods installed this way update automatically.
 - **By hand:** download the mod's `.zip` from [Releases](../../releases), extract it into `<Distant Worlds 2>\mods\`, then enable it in the launcher.
 
 Step by step: [Installing](../../wiki/Installing).
