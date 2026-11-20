@@ -17,8 +17,6 @@ The **Refreshed** mods for *Distant Worlds 2*: better lighting and effects, redo
 | **Refreshed Ground Units** | Every race fights with its own ground troops, in full color, on a ground combat screen you can read. | [Wiki](../../wiki/Refreshed-Ground-Units) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3828649663) |
 | **Refreshed Resources** | New art for every resource, on colored backgrounds that tell you what each one does for your colonies. | [Wiki](../../wiki/Refreshed-Resources) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3130622140) |
 
-Retired: **Refreshed Ship Symbols**, replaced by Refreshed Galaxy and Overlays ([details](../../wiki/Refreshed-Ship-Symbols)).
-
 ## Installing
 
 The Refreshed mods need **[DW2 Mod Launcher](https://github.com/lucky-wolf/DW2-Mod-Launcher/releases)** (Resources also works without it). Install it first, and start the game with its **Play** button.
