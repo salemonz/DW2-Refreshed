@@ -34,6 +34,6 @@ Step by step: [Installing](../../wiki/Installing).
 
 See [Troubleshooting](../../wiki/Troubleshooting), or open an [issue](../../issues) naming the mod, its version and what you saw. The launcher's problem summary (About > Copy Problem Summary) helps.
 
-Some parts of these mods are made with help from generative AI.
+Yes, GenAI is used in my workflow.
 
 This repository holds release downloads and the wiki only. Each release is named `<Mod-name>-v<version>`.
