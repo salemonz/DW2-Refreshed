@@ -15,14 +15,13 @@ The **Refreshed** mods for *Distant Worlds 2*: better lighting and effects, redo
 | **Refreshed Planets and Stars** | Planets, stars and skies redone up close: real-looking worlds, glowing lava, city lights, blazing stars. | [Wiki](../../wiki/Refreshed-Planets-and-Stars) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3838171190) |
 | **Refreshed Flags** | Hundreds of new flags for every race, AI empires that fly them, and flag changes mid-game. | [Wiki](../../wiki/Refreshed-Flags) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829956114) |
 | **Refreshed Ground Units** | Every race fights with its own ground troops, in full color, on a ground combat screen you can read. | [Wiki](../../wiki/Refreshed-Ground-Units) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3828649663) |
-| **Refreshed Troop Symbols** | A symbol for every kind of ground troop: a soldier for infantry, a tank for armor, a mech for titans. | [Wiki](../../wiki/Refreshed-Troop-Symbols) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3181966610) |
 | **Refreshed Resources** | New art for every resource, on colored backgrounds that tell you what each one does for your colonies. | [Wiki](../../wiki/Refreshed-Resources) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3130622140) |
 
-Retired: **Refreshed Ship Symbols**, replaced by Refreshed Galaxy and Overlays ([details](../../wiki/Refreshed-Ship-Symbols)).
+Retired (Steam only): **Refreshed Ship Symbols**, replaced by Refreshed Galaxy and Overlays ([details](../../wiki/Refreshed-Ship-Symbols)), and **Refreshed Troop Symbols**, replaced by Refreshed Ground Units v2 ([details](../../wiki/Refreshed-Troop-Symbols)).
 
 ## Installing
 
-The Refreshed mods need **[DW2 Mod Launcher](https://github.com/lucky-wolf/DW2-Mod-Launcher/releases)** (Troop Symbols and Resources also work without it). Install it first, and start the game with its **Play** button.
+The Refreshed mods need **[DW2 Mod Launcher](https://github.com/lucky-wolf/DW2-Mod-Launcher/releases)** (Resources also works without it). Install it first, and start the game with its **Play** button.
 
 - **Steam:** subscribe to the mod on the Steam Workshop, then enable it in the launcher.
 - **Without Steam (GOG, direct purchase) or by choice:** in the launcher, click **Browse Mod Catalog**, find the mod and install it. Mods installed this way update automatically.
