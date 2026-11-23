@@ -16,7 +16,7 @@ The **Refreshed** mods for *Distant Worlds 2*: better lighting and effects, redo
 | **Refreshed Orbital Traffic** | Developed worlds come alive: civilian craft stream between traffic hubs in low orbit, to your spaceports and in and out of warp, styled for every race. | [0.9.5](../../releases/tag/DW2R-Orbital-Traffic-v0.9.5) | [Wiki](../../wiki/Refreshed-Orbital-Traffic) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3842774959) |
 | **Refreshed Flags** | Hundreds of new flags for every race, AI empires that fly them, and flag changes mid-game. | [1.0.4](../../releases/tag/DW2R-Flags-v1.0.4) | [Wiki](../../wiki/Refreshed-Flags) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3829956114) |
 | **Refreshed Ground Units** | Every race fights with its own ground troops, in full color, on a ground combat screen you can read. | [1.1.5](../../releases/tag/DW2R-Ground-Units-v1.1.5) | [Wiki](../../wiki/Refreshed-Ground-Units) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3828649663) |
-| **Refreshed Resources** | New art for every resource, on colored backgrounds that tell you what each one does for your colonies. | [1.3.5](../../releases/tag/DW2R-Resources-v1.3.5) | [Wiki](../../wiki/Refreshed-Resources) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3130622140) |
+| **Refreshed Resources** | New art for every resource, on colored backgrounds that tell you what each one does for your colonies. | [1.3.6](../../releases/tag/DW2R-Resources-v1.3.6) | [Wiki](../../wiki/Refreshed-Resources) | [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3130622140) |
 
 ## Installing
 
